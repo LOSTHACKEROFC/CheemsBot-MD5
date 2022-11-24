@@ -14,26 +14,36 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['919536476115'] //ur owner number
+global.ownername = "CHIRAG YOUTUBER ❤️😁" //ur owner name
+global.ytname = "YT: CHIRAG YOUTUBER ❤️😇" //ur yt chanel name
+global.socialm = "GitHub: LOSTHACKEROFC" //ur github or insta name
+global.location = "India, UTTARAKHAND" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.owner = ['919536476115'] //ur number
+global.ownernomer = "919536476116" //ur number
+global.ownertag = '919536476115' //ur tag number
+global.premium = ['919536476115'] //ur premium number
+global.botname = 'SEXIEST BOT💖' //ur bot name
+global.ownername = "CHIRAG YOUTUBER ❤️"
+global.linkz = "https://youtube.com/c/chiragyoutuber" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
+global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
+global.themeemoji = "👅" //ur theme emoji
+global.packname = "SEXIST BOT 👅❤️" //ur sticker watermark packname
+global.author = "CHIRAG YOUTUBER" //ur sticker watermark author
+global.wm = "𝑩𝑶𝑻 𝑩𝒀 ....
+
+
+𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝒀𝑼𝑩𝑬𝑹
+
+𝑷𝑳𝑬𝑨𝑺𝑬 𝑫𝑶 𝑵𝑶𝑻 𝑭𝑶𝑹𝑮𝑬𝑻 𝑻𝑶 𝑺𝑼𝑩𝑺𝑪𝑹𝑰𝑩𝑬 🥰❤️🌈
+
+𝑳𝑰𝑵𝑲 ~ youtube.com/c/chiragyoutuber
+
+🌈❤️ 𝑺𝑬𝑿𝑻𝑰𝑺𝑻 𝑩𝑶𝑻𝑻 𝑩𝒀 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹 🌈😎
+" //ur watermark
 
 // Other
 global.sessionName = 'session'
